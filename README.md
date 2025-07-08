@@ -21,12 +21,12 @@ AC Source (+) → Resistor → Inductor → Capacitor → Ground → AC Source (
 ▶️ How to Simulate
 
 1. Visit [Falstad Circuit Simulator] https://falstad.com/circuit/
-2. Click **"File" > "New Circuit"**.
+2. Click "File" > "New Circuit".
 3. Add components:
-   - AC Voltage Source (5V, 50Hz suggested)
-   - Resistor (100 Ω)
-   - Inductor (0.2 H)
-   - Capacitor (100 µF)
+   - AC Voltage Source 
+   - Resistor
+   - Inductor
+   - Capacitor
 4. Connect components in series using wires.
 5. Attach a ground connection below the capacitor.
 6. Press "Run / Simulate" to begin the simulation.
